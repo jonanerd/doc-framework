@@ -1,5 +1,5 @@
-tags:
-- groen
-- rood
-- blauw
-- blauwa
+
+tag:groen
+tag:rood
+tag:geel
+tag:blauw
