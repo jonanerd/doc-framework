@@ -1,5 +1,4 @@
 
-tag=groen
-tag=geel
-tag=rood
-tag=blauw
+tag~groen
+tag~rood
+tag~blauw
